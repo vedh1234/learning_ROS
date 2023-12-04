@@ -479,6 +479,162 @@ rosgraph_msgs_generate_messages_py/fast:
 	$(MAKE) -f day_00/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make day_00/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
 .PHONY : rosgraph_msgs_generate_messages_py/fast
 
+#=============================================================================
+# Target rules for targets named day_02_generate_messages
+
+# Build rule for target.
+day_02_generate_messages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_generate_messages
+.PHONY : day_02_generate_messages
+
+# fast build rule for target.
+day_02_generate_messages/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_generate_messages.dir/build.make day_02/CMakeFiles/day_02_generate_messages.dir/build
+.PHONY : day_02_generate_messages/fast
+
+#=============================================================================
+# Target rules for targets named _day_02_generate_messages_check_deps_motor_parameter
+
+# Build rule for target.
+_day_02_generate_messages_check_deps_motor_parameter: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _day_02_generate_messages_check_deps_motor_parameter
+.PHONY : _day_02_generate_messages_check_deps_motor_parameter
+
+# fast build rule for target.
+_day_02_generate_messages_check_deps_motor_parameter/fast:
+	$(MAKE) -f day_02/CMakeFiles/_day_02_generate_messages_check_deps_motor_parameter.dir/build.make day_02/CMakeFiles/_day_02_generate_messages_check_deps_motor_parameter.dir/build
+.PHONY : _day_02_generate_messages_check_deps_motor_parameter/fast
+
+#=============================================================================
+# Target rules for targets named day_02_generate_messages_cpp
+
+# Build rule for target.
+day_02_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_generate_messages_cpp
+.PHONY : day_02_generate_messages_cpp
+
+# fast build rule for target.
+day_02_generate_messages_cpp/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_generate_messages_cpp.dir/build.make day_02/CMakeFiles/day_02_generate_messages_cpp.dir/build
+.PHONY : day_02_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named day_02_gencpp
+
+# Build rule for target.
+day_02_gencpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_gencpp
+.PHONY : day_02_gencpp
+
+# fast build rule for target.
+day_02_gencpp/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_gencpp.dir/build.make day_02/CMakeFiles/day_02_gencpp.dir/build
+.PHONY : day_02_gencpp/fast
+
+#=============================================================================
+# Target rules for targets named day_02_geneus
+
+# Build rule for target.
+day_02_geneus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_geneus
+.PHONY : day_02_geneus
+
+# fast build rule for target.
+day_02_geneus/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_geneus.dir/build.make day_02/CMakeFiles/day_02_geneus.dir/build
+.PHONY : day_02_geneus/fast
+
+#=============================================================================
+# Target rules for targets named day_02_generate_messages_lisp
+
+# Build rule for target.
+day_02_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_generate_messages_lisp
+.PHONY : day_02_generate_messages_lisp
+
+# fast build rule for target.
+day_02_generate_messages_lisp/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_generate_messages_lisp.dir/build.make day_02/CMakeFiles/day_02_generate_messages_lisp.dir/build
+.PHONY : day_02_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named day_02_generate_messages_eus
+
+# Build rule for target.
+day_02_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_generate_messages_eus
+.PHONY : day_02_generate_messages_eus
+
+# fast build rule for target.
+day_02_generate_messages_eus/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_generate_messages_eus.dir/build.make day_02/CMakeFiles/day_02_generate_messages_eus.dir/build
+.PHONY : day_02_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named day_02_genlisp
+
+# Build rule for target.
+day_02_genlisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_genlisp
+.PHONY : day_02_genlisp
+
+# fast build rule for target.
+day_02_genlisp/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_genlisp.dir/build.make day_02/CMakeFiles/day_02_genlisp.dir/build
+.PHONY : day_02_genlisp/fast
+
+#=============================================================================
+# Target rules for targets named day_02_generate_messages_nodejs
+
+# Build rule for target.
+day_02_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_generate_messages_nodejs
+.PHONY : day_02_generate_messages_nodejs
+
+# fast build rule for target.
+day_02_generate_messages_nodejs/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_generate_messages_nodejs.dir/build.make day_02/CMakeFiles/day_02_generate_messages_nodejs.dir/build
+.PHONY : day_02_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named day_02_gennodejs
+
+# Build rule for target.
+day_02_gennodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_gennodejs
+.PHONY : day_02_gennodejs
+
+# fast build rule for target.
+day_02_gennodejs/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_gennodejs.dir/build.make day_02/CMakeFiles/day_02_gennodejs.dir/build
+.PHONY : day_02_gennodejs/fast
+
+#=============================================================================
+# Target rules for targets named day_02_generate_messages_py
+
+# Build rule for target.
+day_02_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_generate_messages_py
+.PHONY : day_02_generate_messages_py
+
+# fast build rule for target.
+day_02_generate_messages_py/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_generate_messages_py.dir/build.make day_02/CMakeFiles/day_02_generate_messages_py.dir/build
+.PHONY : day_02_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named day_02_genpy
+
+# Build rule for target.
+day_02_genpy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 day_02_genpy
+.PHONY : day_02_genpy
+
+# fast build rule for target.
+day_02_genpy/fast:
+	$(MAKE) -f day_02/CMakeFiles/day_02_genpy.dir/build.make day_02/CMakeFiles/day_02_genpy.dir/build
+.PHONY : day_02_genpy/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -516,6 +672,18 @@ help:
 	@echo "... rosgraph_msgs_generate_messages_lisp"
 	@echo "... roscpp_generate_messages_lisp"
 	@echo "... rosgraph_msgs_generate_messages_py"
+	@echo "... day_02_generate_messages"
+	@echo "... _day_02_generate_messages_check_deps_motor_parameter"
+	@echo "... day_02_generate_messages_cpp"
+	@echo "... day_02_gencpp"
+	@echo "... day_02_geneus"
+	@echo "... day_02_generate_messages_lisp"
+	@echo "... day_02_generate_messages_eus"
+	@echo "... day_02_genlisp"
+	@echo "... day_02_generate_messages_nodejs"
+	@echo "... day_02_gennodejs"
+	@echo "... day_02_generate_messages_py"
+	@echo "... day_02_genpy"
 .PHONY : help
 
 

@@ -1,2 +1,2 @@
-day_00:day_01
+day_00:day_01:day_02
 -DCATKIN_DEVEL_PREFIX=/home/vedh/learning_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/vedh/learning_ROS/install -G Unix Makefiles

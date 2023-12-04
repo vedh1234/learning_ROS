@@ -133,6 +133,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/vedh/learning_ROS/build/gtest/cmake_install.cmake")
   include("/home/vedh/learning_ROS/build/day_00/cmake_install.cmake")
   include("/home/vedh/learning_ROS/build/day_01/cmake_install.cmake")
+  include("/home/vedh/learning_ROS/build/day_02/cmake_install.cmake")
 
 endif()
 

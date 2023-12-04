@@ -1,0 +1,8 @@
+prefix=/home/vedh/learning_ROS/install
+
+Name: day_02
+Description: Description of day_02
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -7,3 +7,4 @@
 subdirs("gtest")
 subdirs("day_00")
 subdirs("day_01")
+subdirs("day_02")
