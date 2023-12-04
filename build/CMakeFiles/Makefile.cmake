@@ -15,9 +15,13 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin_generated/order_packages.cmake"
   "day_00/catkin_generated/ordered_paths.cmake"
   "day_00/catkin_generated/package.cmake"
+  "day_01/catkin_generated/ordered_paths.cmake"
+  "day_01/catkin_generated/package.cmake"
   "/home/vedh/learning_ROS/src/CMakeLists.txt"
   "/home/vedh/learning_ROS/src/day_00/CMakeLists.txt"
   "/home/vedh/learning_ROS/src/day_00/package.xml"
+  "/home/vedh/learning_ROS/src/day_01/CMakeLists.txt"
+  "/home/vedh/learning_ROS/src/day_01/package.xml"
   "/opt/ros/noetic/share/catkin/cmake/all.cmake"
   "/opt/ros/noetic/share/catkin/cmake/assert.cmake"
   "/opt/ros/noetic/share/catkin/cmake/atomic_configure_file.cmake"
@@ -180,6 +184,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "day_00/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "day_01/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:

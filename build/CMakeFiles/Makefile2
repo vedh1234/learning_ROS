@@ -55,12 +55,14 @@ CMAKE_BINARY_DIR = /home/vedh/learning_ROS/build
 # The main recursive "all" target.
 all: gtest/all
 all: day_00/all
+all: day_01/all
 
 .PHONY : all
 
 # The main recursive "preinstall" target.
 preinstall: gtest/preinstall
 preinstall: day_00/preinstall
+preinstall: day_01/preinstall
 
 .PHONY : preinstall
 
@@ -72,6 +74,7 @@ clean: CMakeFiles/tests.dir/clean
 clean: CMakeFiles/download_extra_data.dir/clean
 clean: gtest/clean
 clean: day_00/clean
+clean: day_01/clean
 
 .PHONY : clean
 
@@ -106,6 +109,24 @@ day_00/clean: day_00/CMakeFiles/roscpp_generate_messages_lisp.dir/clean
 day_00/clean: day_00/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/clean
 
 .PHONY : day_00/clean
+
+#=============================================================================
+# Directory level rules for directory day_01
+
+# Recursive "all" directory target.
+day_01/all:
+
+.PHONY : day_01/all
+
+# Recursive "preinstall" directory target.
+day_01/preinstall:
+
+.PHONY : day_01/preinstall
+
+# Recursive "clean" directory target.
+day_01/clean:
+
+.PHONY : day_01/clean
 
 #=============================================================================
 # Directory level rules for directory gtest

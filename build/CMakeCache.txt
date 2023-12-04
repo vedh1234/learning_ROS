@@ -407,6 +407,12 @@ day_00_BINARY_DIR:STATIC=/home/vedh/learning_ROS/build/day_00
 day_00_SOURCE_DIR:STATIC=/home/vedh/learning_ROS/src/day_00
 
 //Value Computed by CMake
+day_01_BINARY_DIR:STATIC=/home/vedh/learning_ROS/build/day_01
+
+//Value Computed by CMake
+day_01_SOURCE_DIR:STATIC=/home/vedh/learning_ROS/src/day_01
+
+//Value Computed by CMake
 gmock_BINARY_DIR:STATIC=/home/vedh/learning_ROS/build/gtest/googlemock
 
 //Dependencies for the target
@@ -633,7 +639,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=5
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
